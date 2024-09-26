@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dbd064d-9b94-43c6-9082-d8cade831ec9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../deepface/Kianu_RIvz/representations_vgg_face.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../deepface/Kianu_RIvz/representations_vgg_face.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deepface/dpface.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deepface/dpface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deepface/face_analyze.json" beforeDir="false" afterPath="$PROJECT_DIR$/../deepface/face_analyze.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deepface/result.json" beforeDir="false" afterPath="$PROJECT_DIR$/../deepface/result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_capt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces/Irina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces/Nikita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces/Rach.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces/Roma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces/Sasha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live_face_detect.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2jycTXQTfn2r9GxKauoUSauMRn9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/agregnikita/Desktop/IT/Учеба:ВУЗ/Robotics_FU/face_capture"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dbd064d-9b94-43c6-9082-d8cade831ec9" name="Changes" comment="" />
+      <created>1722362765786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722362765786</updated>
+    </task>
+    <servers />
+  </component>
+</project>
